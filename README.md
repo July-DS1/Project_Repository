@@ -40,7 +40,8 @@ Predictive Maintenance Dataset (10,000 records of machine data)
   - Tool wear
 
 ## Visualizations
-
+https://github.com/July-DS1/Project_Repository/blob/main/Machine_Failure_Distribution.png
+https://github.com/July-DS1/Project_Repository/blob/main/Feature_Importance.png
 
 ## Future Improvements
 - Deploy model as a web application
@@ -49,6 +50,7 @@ Predictive Maintenance Dataset (10,000 records of machine data)
 
 ## Author
 July
+
 Maintenance Engineer  
 Aspiring Data Scientist / ML Engineer
 
