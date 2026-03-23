@@ -15,4 +15,4 @@ User enters machine parameters and the model predicts failure risk.
 
 pip install -r requirements.txt
 
-streamlit run app.py
+streamlit run app.py (or) py -m streamlit run app.py
